@@ -1,0 +1,424 @@
+1
+What is 10% of 470?
+A) 37
+B) 47
+C) 423
+D) 460
+2
+4x + 6 = 18
+Which equation has the same solution as the given
+equation?
+A) 4x = 108
+B) 4x = 24
+C) 4x = 12
+D) 4x = 3
+3
+The total cost, in dollars, to rent a surfboard consists
+of a $25 service fee and a $10 per hour rental fee. A
+person rents a surfboard for t hours and intends to
+spend a maximum of $75 to rent the surfboard.
+Which inequality represents this situation?
+A)
+t
+10 ≤ 75
+B) 10 + 25t ≤ 75
+C) 25t ≤ 75
+D) 25 + 10t ≤ 75
+4
+The function g is defined by g x
+= x
+2 + 9
+( )
+. For
+which value of x is g(x) = 25 ?
+A) 4
+B) 5
+C) 9
+D) 13
+5
+Each face of a fair 14-sided die is labeled with a
+number from 1 through 14, with a different number
+appearing on each face. If the die is rolled one time,
+what is the probability of rolling a 2?
+A) 1 14
+B) 2 14
+C) 12 14
+D) 13 14
+6
+A printer produces posters at a constant rate of
+42 posters per minute. At what rate, in posters
+per hour, does the printer produce the posters?
+page num 34
+7
+The function f is defined by the equation
+f x( ) = 7 + 2. What is the value of f x( ) when
+x = 4 ?
+8
+A teacher is creating an assignment worth 70 points.
+The assignment will consist of questions worth
+1 point and questions worth 3 points. Which
+equation represents this situation, where x represents
+the number of 1-point questions and y represents the
+number of 3-point questions?
+A)
+4xy
+= 70
+B)
+x
+y
+4( + ) = 70
+C)
+x
+3 + y
+= 70
+D) x
+y
++ 3 = 70
+9
+Right triangles LMN and PQR are similar, where L
+and M correspond to P and Q, respectively. Angle M
+has a measure of 53°. What is the measure of
+angle Q ?
+A) 37°
+B) 53°
+C) 127°
+D) 143°
+10
+y
+x
+= -3
+x
+4 + y
+= 15
+The solution to the given system of equations
+is (x, y). What is the value of x ?
+A) 1
+B) 5
+C) 15
+D) 45
+11
+Which of the following equations is the most
+appropriate linear model for the data shown in the
+scatterplot?
+A) y
+x
+= -1.9 - 10.1
+B) y
+x
+= -1.9 + 10.1
+C) y
+x
+= 1.9 - 10.1
+D) y
+x
+= 1.9 + 10.1
+
+page num 35
+
+12
+The graph of y
+f x
+= ( ) is shown, where the
+function f is defined by f x
+ax
+bx
+cx
+d
+( ) =
++
++
++
+3
+2
+and a, b, c, and d are constants. For how many
+values of x does f x = 0
+( )
+ ?
+A) One
+B) Two
+C) Three
+D) Four
+13
+Vivian bought party hats and cupcakes for $71. Each
+package of party hats cost $3, and each cupcake cost
+$1. If Vivian bought 10 packages of party hats, how
+many cupcakes did she buy?
+14
+z
+z
++ 10 - 24 = 0
+2
+What is one of the solutions to the given equation?
+15
+Bacteria are growing in a liquid growth medium.
+There were 300,000 cells per milliliter during an
+initial observation. The number of cells per milliliter
+doubles every 3 hours. How many cells per milliliter
+will there be 15 hours after the initial observation?
+A) 1,500,000
+B) 2,400,000
+C) 4,500,000
+D) 9,600,000
+16
+Which expression is equivalent to x y
+x y
+6
+8 2 + 12
+2 2 ?
+A)
+x y
+x
+6
+2 2 2
+( 6
+)
+B)
+x y x
+6 2 2
+4
+( )
+C)
+6x y x
++ 2
+2 2
+( 6
+)
+D)
+6x y x
++ 2
+2 2
+( 4
+)
+
+page num 36
+
+17
+A neighborhood consists of a 2-hectare park and a
+35-hectare residential area. The total number of
+trees in the neighborhood is 3,934. The equation
+x
+y
+2 + 35 = 3,934 represents this situation. Which of
+the following is the best interpretation of x in this
+context?
+A) The average number of trees per hectare in
+the park
+B) The average number of trees per hectare in
+the residential area
+C) The total number of trees in the park
+D) The total number of trees in the residential area
+18
+The graph shows the relationship between the
+number of shares of stock from Company A, x, and
+the number of shares of stock from Company B, y,
+that Simone can purchase. Which equation could
+represent this relationship?
+A) y
+x
+= 8 + 12
+B)
+x
+y
+8 + 12 = 480
+C) y
+x
+= 12 + 8
+D)
+x
+y
+12 + 8 = 480
+19
+Circle A has a radius of 3n and circle B has a radius
+of
+n
+129 , where n is a positive constant. The area of
+circle B is how many times the area of circle A?
+A) 43
+B) 86
+C) 129
+D) 1,849
+
+page num 37
+
+20
+Data value Frequency
+6
+3
+
+7
+3
+
+8
+8
+
+9
+8
+
+10
+9
+11
+11
+12
+9
+13
+0
+14
+6
+The frequency table summarizes the 57 data values in
+a data set. What is the maximum data value in the
+data set?
+21
+A circle in the xy-plane has a diameter with
+endpoints 2, 4
+(
+)
+
+and (
+)
+2, 14 . An equation of this
+circle is x
+y
+( − 2)  +  (  − 9)  = r
+2
+2
+2, where r is a positive
+constant. What is the value of r ?
+22
+The measure of angle R is π
+2
+3 radians. The measure
+of angle T is π
+5
+12 radians greater than the measure of
+angle R. What is the measure of angle T, in degrees?
+A) 75
+B) 120
+C) 195
+D) 390
+23
+A certain town has an area of 4.36 square miles.
+What is the area, in square yards, of this town?
+(1 mile = 1,760 yards)
+A) 404
+B) 7,674
+C) 710,459
+D) 13,505,536
+
+page num 38
+
+24
+x
+y
+18 130
+23 160
+26 178
+For line h, the table shows three values of x and their
+corresponding values of y. Line k is the result of
+translating line h down 5 units in the xy-plane.
+What is the x-intercept of line k?
+A) − 26
+3 , 0
+
+ 
+
+
+
+B)
+− 9
+2 , 0
+
+ 
+
+ 
+C) − 11
+3 , 0
+
+ 
+
+ 
+D) − 17
+6 , 0
+
+ 
+
+ 
+25
+In the xy-plane, the graph of the equation
+y
+x
+x
+= −
+2 + 9 − 100
+ intersects the line y
+c
+= at
+exactly one point. What is the value of c?
+A) − 481
+4
+B) −100
+C) − 319
+4
+D) − 9
+2
+
+page num 39
+
+26
+x
+y
+2 + 3 = 7
+x
+y
+10 + 15 = 35
+For each real number r, which of the following
+points lies on the graph of each equation in the
+xy-plane for the given system?
+A)
+r
+r
+5 + 7, − 5 + 35
+
+ 
+
+
+
+B)
+r
+r
+− 3
+2 + 7
+2 ,
+
+ 
+
+
+
+C) r
+r
+, 2
+3 + 7
+3
+
+ 
+
+
+
+D) r
+r
+, − 3
+2 + 7
+2
+
+ 
+
+
+
+27
+The perimeter of an equilateral triangle is
+624 centimeters. The height of this triangle is
+k 3 centimeters, where k is a constant. What is the
+value of k?
+STOP
+If you finish before time is called, you may check your work on this module only.
+Do not turn to any other module in the test.
+…………………………………………………………………………………………………………………………………………………………………………………………………………………….
